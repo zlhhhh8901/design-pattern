@@ -8,6 +8,11 @@
     <artifactId>design-pattern</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
+    <modules>
+        <module>factory-method-pattern-01</module>
+        <module>abstract-factory-pattern-02</module>
+        <module>basic-knowledge-practice-00</module>
+    </modules>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
